@@ -204,10 +204,12 @@
     padding: 15px 0 20px;
 }
 .virtual.cupida h3:before{
-    left: 45px;
+    left: 30px;
+    height: 60px;
 }
 .virtual.cupida h3:after{
-    left: 45px;
+    left: 30px;
+    width: 60px;
 }
 
 .vrt_lft .virtual.cupida {
@@ -1007,12 +1009,12 @@ li.ForMbView{
         display: none;
     }
     .virtualArea.virtualAreaVice button {
-        top: 35%;
-        left: 42%;
+        top: 36%;
+        left: 41%;
     }
     .virtualArea.virtualAreaVice button.polinaPlayLeft {
-        top: 35%;
-        left: 42%;
+        top: 36%;
+        left: 41%;
     }
     .joinStudent {
         padding-bottom: 20px;
