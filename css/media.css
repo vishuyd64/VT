@@ -1699,6 +1699,12 @@ a.donwloadMainPDF {
 .down_pdf {
     font-size: 14px !important;
 }
+.virtualDeskImg{
+    display: none;
+}
+.virtualMobImg{
+    display: block;
+}
 }
 
 @media (max-width: 414px){
