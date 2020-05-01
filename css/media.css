@@ -1,0 +1,1841 @@
+@media(max-width:1920px)  {
+    .formText {
+        width: 24%;
+    }
+    /*virtual*/
+
+.vrtual_para {
+    padding: 0px 536px;
+}
+.ryt_img img{
+    width: 100%;
+}
+.ryt_img {
+    width: 49.4%;
+}
+.image-checkbox {
+    min-height: 384px;
+}
+}
+
+@media(max-width:1798px){
+    .virtualInner h4 {
+        padding: 50px 32% 0;
+    }
+    /*virtual*/
+
+.vrt_ryt .virtual.cupida {
+    padding-right: 13px;
+}
+.vrt_lft .virtual.cupida {
+    padding-right: 79px;
+}
+.vrtual_para {
+    padding: 0px 498px;
+}
+
+/*info_session*/
+.discover_content {
+    padding: 0px 200px;
+    overflow: hidden;
+}
+.discover_box{
+    min-height: 261px;
+}
+.dscv_txt a{
+    font-size: 19px;
+}
+
+}
+
+@media(max-width:1698px){
+    .virtualInner h4 {
+        padding: 50px 30% 0;
+    }
+    .formText {
+        width: 27%;
+    }
+     /*Virual*/
+    
+     .vrtual_para {
+        padding: 0px 317px;
+    }
+    .virtual.cupida{
+        padding-top: 20px;
+    }
+    .vrt_ryt .virtual.cupida{
+        padding-left: 91px;
+    }
+    .virtual_cont{
+        padding: 0px 129px;
+    }
+ 
+    .virtual.cupida {
+        padding-left: 129px;
+    }
+    .vrtual_para {
+        padding: 0px 335px;
+    }
+    .ryt_img {
+        height: 395px;
+        width: 49.3%;
+    }
+    .frstglry_img{
+        height: 796px;
+    }
+    .bottom_glry .ryt_img {
+        width: 24.7777%;
+    }
+    /*info_session*/
+    .viceLeft {
+    width: 770px;
+}
+.viceRight.cupida, .Lecturer .viceRight.viceRight2.cupida{
+    padding:0px 58px 0 100px;
+}
+
+/*Information club*/
+.tab_club li.launchBtnWhite{
+    padding-right: 30px;
+}
+.tab_club .alphabetArea{
+    padding-left: 10px;
+    padding-right: 0px;
+}
+.enrl_txt {
+    font-size: 23px;
+}
+.cupida .session_slickInner h3 {
+    font-family: 'GothamMedium';
+    font-size: 20px;
+    line-height: 28px;
+}
+.enrl_img {
+    width: 62px;
+    height: 55px;
+}
+.image-checkbox{
+    padding: 32px 14px 22px 14px;
+}
+
+}
+
+@media(max-width:1499px) {
+   
+    .discover_box {
+        min-height: 251px;
+    }
+    .vice.Lecturer.lastViceArea {
+        padding-bottom: 150px;
+    }
+    .formText {
+        width: 34%;
+    }
+    .virtualBoxMain {
+        min-width: 230px;
+    }
+    .virtualBoxMain .boxText h3 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    
+    .letHelp {
+        padding: 45px;
+    }
+    .cupida {
+        padding-left: 281px;
+    }
+    .cupida.cupida2 {
+        padding-left: 20px;
+        padding-right: 280px;
+    }
+    .virtualInner h4 {
+        padding: 50px 25% 0;
+    }
+    .header {
+        padding: 30px 0 15px 0;
+    }
+    .excepture {
+        padding: 152px 0 82px;
+    }
+    .extraPadding {
+        padding: 0 35px;
+    }
+    
+    ul.menu li {
+        margin: 0 6px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: .4rem;
+        padding-left: .4rem;
+    }
+    .header {
+        padding: 20px 0 15px 0;
+    }
+    .logbtnGreen a {
+        padding: 14px 20px !important;
+    }
+
+    .header.fixed_header{
+        padding: 4px 0 2px 0;
+    }
+    .exceptureRight2 {
+        padding-left: 50px;
+    }
+
+    /*virtual page*/
+.virtual.cupida{
+    padding-left: 0px;
+}
+.vrt_ryt .virtual.cupida{
+    padding-left: 0px;
+}
+.virtual.cupida{
+    padding-top: 0px;
+}
+.virtual_cont{
+    padding: 0px 90px;
+}
+.virtual.cupida h3{
+    padding-left: 90px;
+    position: relative;
+}
+.virtual_tour.excepture {
+    padding: 15px 0 20px;
+}
+.virtual.cupida h3:before{
+    left: 45px;
+}
+.virtual.cupida h3:after{
+    left: 45px;
+}
+
+.vrt_lft .virtual.cupida {
+    padding-right: 25px;
+}
+.vrt_ryt .virtual.cupida {
+    padding-left: 35px;
+}
+.vrtual_para {
+    padding: 0px 265px;
+}
+.ryt_img{
+    width: 49.2%;
+}
+.bottom_glry .ryt_img {
+    width: 24.7%;
+}
+/*info_session*/
+.Lecturer .viceRight.cupida {
+    padding: 0 30px 0 93px;
+}
+.viceLeft {
+    width: 660px;
+}
+.discover_content {
+    padding: 0px 100px;
+}
+.dscv_txt a {
+    font-size: 16px;
+}
+/*info_club*/
+.amnesty.cupida {
+    padding-left: 50px;
+}
+.listingClub {
+    padding-left: 100px;
+}
+.tab_club .nav-tabs .nav-link{
+    font-size: 15px;
+}
+.clubListing {
+    padding: 160px 0;
+}
+.virtual .prolftSlickInformation .slick-track{
+    min-height: 740px;
+}
+/*pdf*/
+.vrt_ryt .enroll_box {
+    width: 45%;
+    margin-right: 35px;
+    padding: 20px 15px 20px 15px;
+}
+.virtual.pdf_section.cupida h3{
+    padding-left: 0;
+}
+.virtual.pdf_section.cupida h3:before {
+    left: -78px;
+}
+.virtual.pdf_section.cupida h3:after {
+    left: -78px;
+}
+.session_slickInner .cupida h3{
+    font-size: 20px;
+    line-height: 25px;
+}
+.formMain h3 {
+    font-size: 32px;
+}
+.nav-tabs .nav-link {
+    font-size: 17px;
+}
+li.launchBtnWhite {
+    padding-right: 25px;
+}
+.alphabetArea {
+    padding-left: 24px;
+}
+.liveChatImg {
+    width: 119px;
+    height: 86px;
+}
+.liveChatMain h3 {
+    font-size: 16px;
+    padding-top: 12px;
+}
+.events .slick-slide {
+    margin: 0px 30px 44px 0 !important;
+}
+.liveChatMain {
+    padding-right: 35px;
+    padding-bottom: 40px;
+}
+}
+
+@media(max-width: 1199px){
+    .virtual.pdf_section.cupida h3:after{
+        left: -48px;
+        width: 50px;
+    }
+    .virtual.pdf_section.cupida h3:before{
+        left: -48px;
+        height: 50px;
+    }
+   
+    .liveChatMain {
+        padding-right: 45px;
+        padding-bottom: 40px;
+    }
+
+    span.enrl_para {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .image-checkbox {
+        min-height: 335px;
+        padding: 16px 20px 17px 20px;
+    }
+    .discover_specific.events .slick-track{
+        height: 406px;
+    }
+    .discover_specific.events .slick-dots {
+        bottom: 30px;
+    }
+    .wrapper {
+        text-align: center;
+        padding-top: 70px;
+    }
+    
+    .virtualBoxMain {
+        min-width: 200px;
+        padding: 20px 15px;
+    }
+    .virtualBoxMain .boxText h3 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .prolftSlick .slick-dots li button {
+        width: 11px;
+        height: 11px;
+    }
+    .letHelp h3 {
+        font-size: 29px;
+    }
+    .cupida {
+        padding-left: 243px;
+    }
+    .cupida.cupida2 {
+        /* padding-left: 2px; */
+        padding-right: 247px;
+    }
+    .excepture {
+        padding: 120px 0px 82px;
+    }
+    .virtualBoxMain.resourecesMainBox .boxImg {
+        height: 55px;
+        width: 48px;
+        margin: 0 auto;
+    }
+    .resourecesMainBox{
+        width: 150px;
+        min-height: 175px;
+    }
+    .resourecesMainBox .boxText h3{
+        font-size: 17px;
+    line-height: 23px;
+    padding-top: 14px;
+    }
+    .triangleLeft {
+        top: 59px;
+    }
+    .triangleRight {
+        top: 58px;
+    }
+    .eventMain h4 {
+        padding: 63px 0;
+    }
+    .stafContnet p {
+        font-size: 14px;
+    }
+    .stafContnet h3 {
+            font-size: 13px;
+    }
+    .stafContnet h2 {
+        font-size: 16px;
+    }
+    .events .slick-dots {
+        bottom: initial;
+    }
+    .events .slick-track {
+        /* height: 446px; */
+    }
+    .events.UpcomingEvnts {
+        padding: 60px 0 80px;
+    }
+    .events.UpcomingEvnts .eventMain h4 {
+        padding: 3px 0 63px;
+    }
+    .formArea {
+        padding: 121px 0 0;
+    }
+    .formMain h3 {
+        font-size: 30px;
+    }
+    .formArea .form-group .form-control{
+        padding: 12px 0px;
+    }
+    .formBtnAll button {
+        padding: 8px 10px;
+    }
+    .formMain {
+        padding-bottom: 142px;
+    }
+    .events .slick-dots li button {
+        width: 11px;
+        height: 11px;
+    }
+    .virtualInner h4 {
+        padding: 50px 20% 0;
+    }
+    .cupida.cupidaExta {
+        padding-left: 244px;
+    }
+    /*Virtual */
+    .vrt_ryt .virtual.cupida {
+        padding-left: 27px;
+    }
+    .vrtual_head.virtual.cupida h3{
+        padding-bottom: 30px;
+    }
+    .three_dtour{
+        padding: 55px 0px 0px;
+    }
+    .vrtual_para {
+        padding: 0px 161px;
+    }
+    .jouney_box .virtualBoxMain.resourecesMainBox:after{
+        bottom: 55px;   
+    }
+
+    .continue_jrny .vrtual_head.virtual.cupida h3{
+        padding-bottom: 35px;
+    } 
+    .continue_jrny .setBar.setBar2 {
+        height: 170px;
+    }
+    .frstglry_img {
+        height: 446px;
+    }
+    .ryt_img {
+        width: 49%;
+        height: 220px;
+    }
+    .bottom_glry .ryt_img {
+        width: 24.66666%;
+    }
+    .image_tabs.boxs ul li {
+        margin-right: 10px;
+    }
+    /*info_session*/
+    .Lecturer .viceRight.cupida{
+        padding: 0px 12px 0 88px;
+    }
+    .viceLeft {
+    width: 535px;
+    height: 500px;
+}
+.Lecturer .viceRight.cupida .viceRightTExt {
+    padding-right: 50px;
+}
+.vice.Lecturer.Lecturer2 {
+    padding: 60px 0 75px;
+}
+.discover_content {
+    padding: 0px 50px;
+}
+.dscv_txt a {
+    font-size: 16px;
+}
+
+.dscvr_jrny .jouney_box .virtualBoxMain.resourecesMainBox.d-inline-block:after {
+    /* bottom: 73px; */
+    bottom: 55px;
+
+}
+.discover_box{
+    padding: 30px 5px;
+    min-height: 228px;
+}
+/*info_club*/
+.listingClub {
+    padding-left: 60px;
+}
+.amnesty {
+    padding: 50px 50px 90px;
+}
+/*pdf*/
+.enrl_txt{
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+}
+.check_img .down_pdf {
+    bottom: 12px;
+}
+.down_pdf{
+    padding-top: 20.3px;
+}
+.virtual_cont.resorc_conte{
+    padding:0px 62px;
+}
+.vrt_ryt .enroll_box {
+    width: 47%;
+    margin-right: 15px;
+}
+.events .slick-list.draggable{
+    padding: 0 50px 0 0 !important;
+}
+a.donwloadMainPDF {
+    padding-bottom: 50px;
+}
+.jouney_box .virtualBoxMain.resourecesMainBox.d-inline-block:after{
+    bottom: 61px;
+}
+.nav-tabs .nav-link{
+    font-size: 15px;
+}
+li.launchBtnWhite{
+    padding-right: 17px;
+}
+.alphabetArea {
+    padding-left: 17px;
+}
+.launchBtnWhite.alphabetArea.image_tabs_Alpha{
+    padding-left: 0;
+}
+.exceptureMainDownload1.exceptureMain1 .col-lg-7{
+    -ms-flex: 0 0 64.333333%;
+    flex: 0 0 64.333333%;
+    max-width: 64.333333%;
+}
+.exceptureMainDownload1.exceptureMain1 .col-lg-5{
+    -ms-flex: 0 0 35.333333%;
+    flex: 0 0 35.333333%;
+    max-width: 35.333333%;
+}
+.exceptureMain.exceptureMainDownload1.exceptureMain3 .col-lg-6{
+    -ms-flex: 0 0 60%;
+    flex: 0 0 60%;
+    max-width: 60%;
+}
+.exceptureMain.exceptureMainDownload1.exceptureMain3 .col-lg-6.noright{
+    -ms-flex: 0 0 40%;
+    flex: 0 0 40%;
+    max-width: 40%;
+}
+
+}
+@media(max-width: 1050px ){
+    li.launchBtnWhite{
+        padding-right: 10px;
+    }
+    .alphabetArea {
+        padding-left: 10px;
+    }
+
+    
+}
+@media(max-width: 991px){
+    .exceptureMainDownload1.exceptureMain1 .col-lg-7{
+        -ms-flex: initial;
+        flex: initial;
+        max-width: initial;
+    }
+    .exceptureMainDownload1.exceptureMain1 .col-lg-5{
+        -ms-flex: initial;
+        flex: initial;
+        max-width: initial;
+    }
+    .exceptureMain.exceptureMainDownload1.exceptureMain3 .col-lg-6{
+        -ms-flex: initial;
+        flex: initial;
+        max-width: initial;
+    }
+    .exceptureMain.exceptureMainDownload1.exceptureMain3 .col-lg-6.noright{
+        -ms-flex: initial;
+        flex: initial;
+        max-width: initial;
+    }
+    .exceptureRight3{
+        height: auto !important;
+    }
+    .excepture3{
+        background: none;
+    }
+    .stroke ul li a.strokNav:after{
+        display: none;
+    }
+    .enrl_txt {
+        font-size: 19px;
+        line-height: 22px;
+    }
+    .check_img .down_pdf {
+        bottom: 11px;
+    }
+    .enrl_img {
+        width: 54px;
+        height: 55px;
+        margin-bottom: 16.5px;
+    }
+    span.enrl_para {
+        font-size: 15px;
+    }
+ 
+    .liveChatImg {
+        width: 79px;
+        height: 58px;
+    }
+    .navbar-brand{
+        height: 49px;
+    }
+    .navbar-brand img{
+        height: 49px;
+    }
+    .MyNaviBar{
+        padding-left: 0;
+    }
+    .btnsgroupsMOb{
+        display: block;
+    }
+    .btnsgroups{
+        display: none;
+    }
+    li.launchBtnWhite:last-child {
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    
+    }
+    .set2.setClubHead a span, .set2.setClubHead i.fa{
+        color: #222222;
+    }
+    .nav-tabs{
+        text-align: center;
+        box-shadow: 0 8px 6px -4px #888
+    }
+    .prolftSlick .slick-track {
+        min-height: 874px;
+        /* height: 100%; */
+    }
+    .vice.Lecturer.lastViceArea {
+        padding-bottom: 70px;
+    }
+
+    .nav-tabs .nav-link.active{
+        margin-top: 0;
+        display: inline-block;
+        padding: 0;
+    }
+    .discover_specific.events .slick-track {
+        height: 100%;
+    }
+    .excepture {
+        padding: 80px 0px 42px;
+    }
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+    }
+    .navbar-expand-md .navbar-collapse {
+        position: fixed;
+        width: 250px;
+        top: 0;
+        right: -250px;
+        background: #004c97;
+        height: 100%;
+        transition: all 0.3s ease;
+        display: initial !important;
+        margin-top: 60px;
+        padding: 20px 15px 0px 30px;
+        z-index: 9;
+    }
+    .navbar-right ul{
+            align-items: initial;
+    }
+    .header {
+        padding: 9px 0 9px 0;
+    }
+    .navbar-expand-md .navbar-collapse {
+        margin-top: 66px;
+        text-align: center;
+        padding-top: 100px;
+    }
+    .navbar-expand-md .navbar-nav .logbtnGreen .nav-link{
+        width: 170px;
+        height: 100%;
+        margin: auto;
+    }
+    .headerBox.stroke{
+        float: initial !important;
+    }
+    ul.menu li {
+        margin: 15px 6px;
+    }
+    .navbar-right li a {
+        line-height: 20px;
+    }
+    .navbar-expand-md .navbar-nav {
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .prolftSlick .slick-dots {
+        bottom: 27px;
+        text-align: center;
+        right: initial;
+    }
+    .letHelp h3 {
+        font-size: 22px;
+    }
+    .postionText2{
+        display: none;
+    }
+    .wrapper {
+        padding-top: 65px;
+    }
+    .cupida h3 {
+        font-size: 22px;
+        line-height: 29px;
+        padding-bottom: 20px;
+    }
+    .cupida p {
+        padding-bottom: 15px;
+    }
+    .cupida {
+        padding-top: 0;
+    }
+    .exceptureRight2 {
+        padding-left: 0;
+    }
+    .excepture3 {
+        background-size: 100% 100%;
+    }
+
+    .formText {
+        width: 44%;
+    }
+  
+    .formArea .form-group {
+        margin-bottom: 1.2rem;
+    }
+    .formArea .form-group .form-control {
+        font-family: 'ARIALMT';
+        font-size: 19px;
+    }
+    .formBtnAll button {
+        font-size: 20px;
+    }
+    .formMain {
+        padding-bottom: 82px;
+    }
+    .footerMain .btmright a {
+        font-size: 26px;
+        margin-right: 30px;
+    }
+    /* .exceptureMain2 .row{
+        flex-direction: column-reverse;
+        display: flex;
+    } */
+        /* .wrapper{
+            display: none;
+        }
+        .setBar{
+            display: none;
+        } */
+        .verticalBar2{
+            display: none;
+        }
+    .exceptureRight{
+        margin-top: 20px;
+        height: 400px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .exceptureRight img{
+        float: initial;
+    }
+    .exceptureMain2 .row .col-lg-5{
+        padding-right: 0;
+    }
+    .virtualInner h2 span {
+        font-size: 36px;
+    }
+    .virtualInner h2 {
+        font-size: 26px;
+    }
+    .virtualInner h4 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .formMain h3 {
+        line-height: 41px;
+        font-size: 26px;
+    }
+    #back2Top{
+        font-size: 20px;
+    }
+    
+    /* irtual*/
+    .vrt_ryt .virtual.cupida{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .vrt_lft .virtual.cupida {
+    padding-right: 0px;
+}
+.vrtual_para {
+    padding: 0px 47px;
+}
+.image_tabs.boxs ul li a{
+    font-size: 14px;
+}
+ul#myTab li:after{
+    right: -13px;
+}
+.image_tabs.boxs ul li{
+margin-right: 15px;
+}
+.virtual.cupida h3:before {
+    height: 57px;
+    top: -37px;
+}
+.virtual.cupida h3:after {
+    width: 57px;
+    top:-40px;
+}
+
+.frstglry_img{
+    width: 100%;
+    margin-bottom: 5px;
+}
+.frstglry_img img{
+    width: 100%;
+}
+.ryt_img {
+    width: 49.4%;
+}
+.bottom_glry .ryt_img {
+    width: 49.4%;
+}
+.bottom_glry .ryt_img:nth-child(odd) {
+    margin-left: 5px !important;
+}
+.vrtual_head.virtual.cupida h3{
+    font-size: 22px;
+}
+/*info_sesssion*/
+.viceLeft {
+    width: 400px;
+    height: 468px;
+}
+.vice {
+    padding: 110px 0 20px;
+}
+.virtualArea.virtualAreaVice button.polinaPlayLeft {
+    top: 41%;
+    left: 38%;
+}
+.virtualArea.virtualAreaVice button {
+    left: 37%;
+}
+.viceRight.cupida, .Lecturer .viceRight.viceRight2.cupida {
+    padding: 0px 11px 0 69px;
+}
+.Lecturer .viceRight.cupida .viceRightTExt {
+    padding-right: 0px;
+}
+.Lecturer .viceRight.cupida {
+    padding: 0px 12px 0 46px;
+}
+.discover_box {
+    width: initial;
+    margin-right: 15px;
+    min-height: 210px;
+}
+.discover_content{
+    /* display: block; */
+    padding:0px;       
+}
+.discover_contentDesk .slick-list.draggable {
+    padding: 0 56px 0 0 !important;
+}
+.dscv_txt a {
+    font-size: 12px;
+}
+.discover_section{
+    padding: 82px 0px 95px 0px;
+}
+li.launchBtnWhite{
+    /* padding-right: 25px; */
+    padding-right: 0;
+    max-width: max-content;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border-right: none;
+    padding-top: 0%;
+    margin-top: 40px;
+}
+.alphabetArea {
+    /* padding-left: 25px; */
+    padding-left: 0;
+    margin-top: 0;
+}
+.continue_jrny.dscvr_jrny{
+    padding: 45px 0px;
+}
+.surName{
+    padding-top:10px;
+}
+/*info_club*/
+.clubListing {
+    padding: 125px 0;
+}
+.set2 a span, .seeALL{
+    font-size: 20px;
+}
+.listingClub h2, .amnesty h2{
+    font-size: 22px;
+}
+.disacord{
+    padding-top: 30px;
+}
+.listingClub {
+    padding-left: 15px;
+}
+.amnesty{
+    padding:50px 35px 146px;
+}
+.virtual .prolftSlickInformation .slick-track {
+    min-height: 640px;
+}
+.set2 a span, .seeALL {
+    font-size: 18px;
+    line-height: 30px;
+}
+.cont_full {
+    padding: 15px 0px;
+}
+.cont_full li {
+    font-size: 15px;
+    line-height: 30px;
+}
+/*pdf*/
+.application_enroll{
+    padding-top: 40px;
+}
+
+
+.virtualMain.virtualMain_club .virtualVideoImg {
+    width: 100%;
+    height: 100% !important;
+}
+.virtualArea_club {
+    padding-top: 110px;
+}
+.virtualArea_club h4 {
+    padding-bottom: 64px !important;
+}
+.img_gallery .row{
+    padding-top: 25px;
+}
+li.ForMbView{
+    margin-top: 20px;
+}
+.btnsgroupsMObVirtual{
+    padding: 0 15px;
+}
+.virtuaTab{
+    display: inline-block;
+}
+.discover_specific.events .slick-dots {
+    bottom: 0;
+}
+.exceptureMainDownload1 .row{
+    flex-direction: column-reverse;
+}
+.virtualBoxMain .boxImg.boxImg_virtual {
+    width: 95.2px;
+    height: 67.5px;
+}
+.image-checkbox {
+    min-height: 315px;
+}
+}
+@media (max-width: 767px){
+ 
+    .continue_jrny .vrtcl_bar{
+        display: none;
+    }
+    .virtualArea.virtualAreaVice button {
+        top: 35%;
+        left: 42%;
+    }
+    .virtualArea.virtualAreaVice button.polinaPlayLeft {
+        top: 35%;
+        left: 42%;
+    }
+    .joinStudent {
+        padding-bottom: 20px;
+    }
+    section.vice .viceMain .row {
+        /* flex-direction: column-reverse;   */
+    }
+    section.vice_content .viceMain .row {
+        /* flex-direction: column-reverse; */
+        }
+        .surName {
+        padding-bottom: 20px;
+        }
+        .vice.Lecturer.lctrr_one .viceMain .row {
+            flex-direction: column-reverse;
+        }
+        .Lecturer .viceRight.cupida {
+            padding: 20px 12px 0 26px;
+        }
+        .viceRight.cupida, .Lecturer .viceRight.viceRight2.cupida {
+            padding: 20px 12px 0 26px;
+        }
+        .viceRight.viceRight2.cupida{
+            padding-top: 20px;
+            }
+        .continue_jrny.dscvr_jrny{
+            display: none;
+        }
+    .triangleRight {
+        right: -29px;
+    }
+    .postionText {
+        left: 0;
+        top: 41%;
+    }
+    .virtualInner h2 {
+        padding: 40px 63px 25px;
+        font-size: 26px;
+    }
+    .virtualInner h2 span {
+        font-size: 37px;
+    }
+    .virtualInner h4 {
+        padding: 20px 7% 0;
+    }
+    .virtualBoxMain .boxText h3 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .cupida.cupidaExta {
+        padding-left: 206px;
+    }
+    .cupida.cupida2 {
+        padding-right: 204px;
+    }
+    .triangleRight {
+        top: 50px;
+    }
+    .triangleLeft {
+        top: 47px;
+        left: -48px;
+    }
+    .cupida {
+        padding-left: 208px;
+    }
+    .stafContnet h3{
+        padding: 0;
+    }
+    .stafContnet h2 {
+        font-size: 15px;
+    }
+    .virtualBoxMain {
+        min-width: 167px;
+        min-height: 161px;
+        margin-right: 20px;
+        padding: 20px 10px;
+    }
+    .prolftSlick .slick-track {
+        min-height: 925px;
+    }
+
+    .excepture {
+        padding: 50px 0px 45px;
+    }
+    .resourecesMainBox2{
+        margin-right: 0;
+    }
+    .excepture3 {
+        background: none;
+    }
+    .formMain h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .formAll {
+        width: 42%;
+    }
+    .formArea {
+        padding: 70px 0 0;
+    }
+    .eventMain h4 {
+        padding: 43px 0;
+    }
+    /*Virtual*/
+    .three_dtour {
+        padding: 45px 0px 0px;
+    }
+    .image_tabs{
+        padding: 30px 0px 25px;
+    }
+
+    .ryt_img {
+        width: 49.111%;
+    }
+    .image_tabs.boxs ul {
+        display: block;
+        border-bottom: none !important;
+    }
+    .image_tabs.boxs ul li:after{
+        display: none;
+    }
+    .bottom_glry .ryt_img {
+        width: 49.6%;
+    }
+    .virtual_cont {
+        padding: 0px 25px;
+    }
+    .virtual.cupida h3{
+        padding-left: 25px;
+    }
+    .virtual.cupida h3:after{
+        display: none;
+    }
+    .virtual.cupida h3:before{
+        display: none;
+    }
+    .vrtual_para {
+        padding: 0px 25px;
+    }
+    /*Info_session*/
+    .viceMain  .col-md-6{padding-right: 0px;
+    }
+    .viceLeft {
+    width: auto;
+    height: 100%;
+}
+.vice_content .vice .row:nth-child(even) {
+        display: flex;
+
+    flex-direction: row-reverse;
+}
+.vice {
+    padding: 63px 0 35px;
+}
+.vice.Lecturer {
+    padding: 23px 0;
+}
+.vice.Lecturer.Lecturer2 {
+    padding: 25px 0 35px;
+}
+.discover_box {
+    width: 48.5%;
+    height: 210px;
+}
+.dscv_txt a {
+    font-size: 16px;
+}
+.continue_jrny{
+    display: none;
+}
+.sessionSlick {
+    padding-top: 35px;
+}
+.viceRight.cupida {
+    padding-top: 20px;
+}
+/*info_club*/
+.clubListing {
+    padding: 90px 0;
+}
+.socialIcon{
+    padding-top: 30px;
+}
+.amnesty {
+    padding: 50px 35px 65px;
+}
+.amnesty.cupida {
+    padding-left: 35px;
+}
+.jouney_box .virtualBoxMain.resourecesMainBox.d-inline-block:after {
+    /* bottom: 66px; */
+    bottom: 53px;
+    width: 63.6px;
+}
+.enrl_img {
+    width: 43px;
+    height: 41px;
+}
+.discover_specific .inviteBtn input[type=checkbox]:checked + label:before, .discover_specific .inviteBtn input[type=checkbox]:not(:checked) + label:before{
+    height: 24px;
+    width: 24px;
+}
+.discover_specific .inviteBtn input[type=checkbox]:checked + label:after {
+    right: 23px;
+    top: 20px;
+    height: 13px;
+    width: 8.3px;
+}
+.check_img .enrl_txt {
+    font-size: 15px;
+    line-height: 18px;
+}
+.image-checkbox {
+    padding: 16px 6px 17px 6px;
+}
+span.enrl_para {
+    font-size: 15px;
+}
+.down_pdf{
+    font-size: 15px !important;
+}
+.cupida .session_slickInner h3{
+    font-size: 18px;
+}
+.jouney_box .virtualBoxMain.resourecesMainBox.d-inline-block{
+    min-height: 161px   ;
+    padding: 25px 18px;
+
+}
+.jrny_scnd .jouney_text {
+    padding: 0 72px 0 0;
+}
+.verticalBar {
+    top: 50%;
+}
+.virtual .prolftSlickInformation .slick-track {
+    min-height: 557px;
+}
+.bottom_glry .ryt_img {
+    width: 49.1%;
+}
+.continue_jrnyMain{
+    display: none;
+}
+.events .slick-dots {
+    /* bottom: 61px; */
+}
+.stafContnet h3 {
+    padding: 5px 0 8px;
+}
+.liveChatImg {
+    width: 59px;
+    height: 43px;
+}
+.liveChatMain h3 {
+    font-size: 13px;
+    padding-top: 6px;
+}
+.liveChatMain {
+    padding-right: 15px;
+    padding-bottom: 20px;
+}
+.virtualBox .newSect {
+    padding: .5rem .5rem;
+}
+.image-checkbox {
+    min-height: 285px;
+}
+.discover_contentDesk .slick-list.draggable {
+    padding: 0 86px 0 0 !important;
+}
+}
+
+@media(max-width: 560px){
+    .discover_contentDesk .slick-list.draggable {
+        padding: 0 136px 0 0 !important;
+    }
+    .discover_contentDesk .slick-list.draggable{
+        height: 100%;
+    }
+    .discover_contentDesk .slick-track{
+        height: 100% ;
+    }
+    .exceptureRight.exceptureRight3{
+        height: 100% !important;
+    }
+
+    .listingClub {
+        padding-left: 15px;
+    }
+    .disacord {
+        padding-right: 0;
+    }
+    .amnesty.cupida {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .amnestyImg img {
+        object-fit: contain;
+    }
+    .amnestyImg {
+        width: initial;
+        height: initial;
+        padding-bottom: 50px;
+    }
+    .virtualRytHide{
+        display: none;
+    }
+    .learnMOb{
+        display: block;
+    }
+    .formMain h3 {
+        font-size: 20px;
+    }
+    .virtual .prolftSlickInformation .slick-track {
+        min-height: 445px;
+    }
+    .fixedArrow{
+        display: inline-block;
+    }
+  
+    .image-checkbox {
+        min-height: 264px;
+    }
+    .discover_specific.events .slick-slide{
+        padding: 0;
+    }
+    #back2Top{
+        position: relative;
+        right: 0;
+    }
+    .btmright{
+        margin-bottom: 20px;
+    }
+    .triangle{
+        display: none;
+    }
+    .resourecesMain{
+        position: relative;
+        top: 0;
+        text-align: left;
+    }
+    .cupida {
+        padding-left: 0;
+        padding: 20px;
+        padding-top: 20px;
+    }
+    .cupida.cupidaExta {
+        padding-left: 20px;
+    }
+    .cupida br{
+        /* display: none; */
+    }
+    .exceptureMain1 .row .col-md-7,   .exceptureMain2 .row .col-md-7{
+        padding-right: 0em;
+    }
+    .resourecesMainBox{
+        min-height: 100%;
+        margin-right: 0;
+        
+    }
+    .cupida.cupida2 {
+        /* padding-left: 2px; */
+        padding-right: 20px;
+    }
+    .virtualArea {
+        padding-top: 118px;
+    }
+    .polinaPlay{
+        width: 80px;
+    }
+    .virtualInner h2 span {
+        font-size: 33px;
+    }
+    .postionText {
+        display: none;
+    }
+    .virtualBox{
+        display: block;
+        padding: 40px 10px 56px;
+    }
+    .virtualBoxMain {
+        width: initial;
+    margin-bottom: 20px;
+    min-height: 113px;
+    min-width: 113px;
+    padding: 12px 5px;
+
+    }
+    .virtualBoxMain .boxImg, .virtualBoxMain .boxImg.boxImg_virtual {
+        height: 37px;
+        width: 47px;
+        margin: 0 auto;
+    }
+    .virtualBoxMain .boxImg img{
+        height: 100%;
+        width: 100%;
+    }
+    .virtualBoxMain .boxText h3{
+        padding-top: 18px;
+    }
+    .virtualBoxMain.hvr-bubble-bottom .boxText h3 {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .virtualBox .newSect {
+        padding: 5px 5px;
+    }
+    .virtualMain video {
+        height: 100%;
+    }
+    .extraPadding {
+        padding: 0 15px;
+    }    
+    .resourecesMainBox{
+        width: 170px;
+    }
+    .formMain{
+        display: block;
+        padding: 0 40px;
+        text-align: center;
+    }
+    .formText{
+        width: 100%;
+    }
+    .formAll{
+        width: 100%;
+    }
+    .exceptureMain2 .row .col-md-5{
+        padding-right: 0;
+    }
+    .formMain h3 {
+        margin-bottom: 20px;
+    }
+    .footer {
+        padding: 60px 40px 20px;
+        /* text-align: center; */
+    }
+    .footerMain {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+     /*Virtual*/
+.vrt_lft{
+    padding-right: 0px;
+}
+.ryt_img {
+    width: 100%;
+}
+.bottom_glry .ryt_img {
+    width: 48.9%;
+}
+
+/* .jouney_box {
+    padding: 0px 25px;
+} */
+.continue_jrny {
+    height: auto;
+}
+.frstglry_img {
+    height: auto;
+}
+.ryt_img{
+    height: auto;
+}
+.img_gallery .row{
+    padding-top: 25px;
+    overflow: hidden;
+}
+
+.jouney_text.cupida{
+    
+    padding-left: 0;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+    margin-top: 12px;
+}
+.jouney_box .virtualBoxMain.resourecesMainBox.d-inline-block{
+    display: block!important;
+    margin: 0 auto;
+}
+.jouney_box{
+    display: block;
+}
+.jrny_scnd .jouney_text{
+    padding: 0;
+}
+.jrny_scnd .virtualBoxMain {
+    float: unset;
+    margin-top: 12px !important;
+}
+.jouney_box .virtualBoxMain.resourecesMainBox.d-inline-block:after{
+    display: none;
+}
+.jrny_scnd{
+    display: flex;
+    flex-direction: column-reverse;
+}
+/*info_session*/
+/* .Lecturer .viceRight.cupida {
+    padding: 0px 12px 0 20px;
+} */
+/* .Lecturer .viceRight.viceRight2.cupida {
+    padding: 0px 11px 0 20px;
+} */
+.Lecturer .viceRight.cupida .viceRightTExt {
+    padding-right: 0px;
+}
+.discover_section{
+    margin-top: 20px;
+    padding: 10px 0px 51px 0px;
+}
+.discover_box {
+    width: 48%;
+    height: 224px;
+    margin-right: 20px;
+    padding: 30px 25px;
+}
+.discover_section .vrtual_head.virtual.cupida{
+    padding: 0;
+}
+.discover_section .vrtual_head.virtual.cupida h3{
+    padding: 32px 58px;
+}
+.discover_content{
+    padding:0px;
+    text-align: center;
+}
+.dscv_txt a {
+    font-size: 15px;
+}
+/*info_club*/
+.clubListing {
+    padding: 65px 0;
+}
+.cont_full {
+    padding: 15px 0px;
+}
+/*pdf*/
+.virtual_cont.resorc_conte {
+    padding: 0px 35px;
+}
+.vrt_ryt .enroll_box {
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+.application_enroll span.enrl_para {
+    display: none;
+}
+.application_enroll .enroll_box:last-of-type {
+    float: right;
+}
+.application_enroll {
+    padding-top: 20px;
+    text-align: initial;
+}
+.sessionSlick .slick-list.draggable {
+    padding: 0 24px 0 0 !important;
+}
+.jouney_text h4{
+    padding: 0 26%;
+    font-size: 20px;
+    line-height: 25px;
+}
+.continue_jrny .vrtual_head.virtual.cupida h3 {
+    padding-bottom: 10px;
+}
+#back2Top {
+    font-size: 17px;
+    bottom: 10px;
+}
+.vice.Lecturer.lastViceArea {
+    padding-bottom: 40px;
+}
+.letHelp h3 {
+    font-size: 20px;
+}
+.prolftSlick .slick-track {
+    height: 100%;
+    min-height: initial;
+}
+.hvr-bubble-bottom:before{
+    display: none;
+}
+.virtualInner h4 {
+    font-size: 23px;
+    padding-top: 0;
+    line-height: 29px;
+}
+.virtualInner h2 {
+    line-height: 41px;
+
+}
+.excepture {
+    padding: 20px 0px 20px;
+}
+.excepture1 {
+    padding: 40px 0px 20px;
+}
+.setBar {
+    padding-top: 74px;
+}
+.setBar2 {
+ display: none;
+}
+.ryt_img {
+    width: 48.9%;
+}
+.virtualInnerINFO h2{
+    padding: 40px 23px 25px;
+}
+.exceptureMain.exceptureMainDownload1 .exceptureRight img, .exceptureMain.exceptureMainDownload2 .exceptureRight img{
+    /* object-fit: contain; */
+    height: 100%;
+    width: 100%;
+}
+.exceptureMain.exceptureMainDownload1 .exceptureRight, .exceptureMain.exceptureMainDownload2 .exceptureRight{
+    height: 274px;
+    margin-top: initial;
+    width: 100%;
+    margin-bottom: initial;
+}
+.exceptureMain .exceptureLeft{
+    padding-top: 20px;
+}
+.eventMain h4 {
+    font-size: 21px;
+    padding: 32px 58px;
+}
+.stafContnet h3 {
+    font-size: 12px;
+}
+.stafContnet h2 {
+    margin-bottom: 7px;
+}
+.events .slick-list.draggable {
+    padding: 0 80px 0 0 !important;
+}
+.discover_specific.events .slick-list.draggable {
+    padding: 0 65px 0 0 !important;
+}
+.enrl_txt {
+    font-size: 14px;
+    line-height: 20px;
+}
+.vrt_lft .virtual.pdf_section.cupida, .vrt_lft .virtual.pdf_section.cupida h3 {
+    padding-bottom: 0px;
+}
+a.donwloadMainPDF {
+    font-size: 18px !important;
+    padding: 20px 66px 40px;
+}
+.navbar-expand-md .navbar-collapse {
+    padding-top: 70px;
+}
+.backgroundchange h4 {
+    opacity: 1;
+    z-index: 9;
+    font-size: 22px;
+    top: 39%;
+}
+.discover_contentDesk {
+    height: 224px;
+}
+.discover_contentMob .slick-list.draggable {
+    padding: 0 170px 0 0 !important;
+}
+/* .backgroundchange:hover .layer,
+.backgroundchange1:hover .layer1,
+.backgroundchange2:hover .layer2,
+.backgroundchange3:hover .layer3 {
+  background-color: transparent;
+  background-repeat: initial;
+  background-position: initial;
+} */
+
+.virtual_cont.resorc_conte {
+    padding: 0 20px;
+}
+.down_pdf {
+    font-size: 14px !important;
+}
+}
+
+@media (max-width: 414px){
+    .discover_contentDesk .slick-list.draggable {
+        padding: 0 96px 0 0 !important;
+    }
+    .vrt_ryt .enroll_box {
+        margin-right: 15px;
+        padding: 15px 10px 15px 10px;
+    }
+    .vrt_ryt.noright{
+        padding-left: 0;
+    }
+    .virtual_cont.resorc_conte {
+        padding: 0px 35px;
+    }
+    .virtual_cont.resorc_conte {
+        padding: 0px 15px 0 30px;
+    }
+    .enrl_txt {
+        font-size: 13px;
+    }
+    .down_pdf {
+        font-size: 12px !important;
+        padding-top: 10.3px;
+        text-align: center;
+    }
+    .vrt_ryt .enroll_box {
+        padding: 15px 6px 15px 6px;
+    }
+    .virtualBoxMain .boxImg.boxImg_virtual {
+        height: 32px;
+        width: 45px;
+    }
+    .exceptureMain.exceptureMainDownload1 .exceptureRight, .exceptureMain.exceptureMainDownload2 .exceptureRight {
+        height: 213px;
+        margin-top: initial;
+        width: 100%;
+        margin-bottom: initial;
+    }
+    .virtualInnerINFO h2 span {
+        font-size: 27px;
+    }
+    .ryt_img {
+        width: 48.6%;
+    }
+    .bottom_glry .ryt_img {
+        width: 48.6%;
+    }
+    .footer {
+        padding: 60px 25px 20px;
+    }
+    .virtual .prolftSlickInformation .slick-track {
+        min-height: 359px;
+    }
+    .jouney_text h4{
+        padding: 0 16%;
+    }
+    .vrtual_head.virtual.cupida h3 {
+        font-size: 18px;
+    }
+    .virtualInner h2 {
+        padding: 40px 13px;
+    }
+    .formMain h3 {
+        margin-bottom: 20px;
+        font-size: 16px;
+        line-height: 29px;
+    }
+    .letHelp h3 {
+        font-size: 17px;
+    }
+    .formMain{
+        padding: 0 25px;
+    }
+    /*info_session*/
+    .discover_content {
+    padding: 0px 20px;
+}
+.discover_box {
+    width: 86%;
+    height: 224px;
+}
+.discover_content {
+    padding: 0px;
+}
+.discover_contentMob .slick-list.draggable {
+    padding: 0 120px 0 0 !important;
+}
+.dscv_txt a {
+    font-size: 14px;
+}
+.letHelp {
+    padding: 30px 20px;
+}
+.events .slick-list.draggable{
+    padding: 0 60px 0 0 !important;
+}
+.image-checkbox {
+    padding: 16px 20px 17px 20px;
+}
+.virtualBoxMain {
+    min-height: 102px;
+    min-width: 103px;
+}
+.virtualBoxMain.hvr-bubble-bottom .boxText h3 {
+    font-size: 10px;
+}
+.virtualBoxMain .boxImg {
+    height: 32px;
+    width: 32px;
+}
+.virtualBox .newSect {
+    padding: 5px 1px;
+}
+.virtualBox {
+    padding: 50px 5px 56px;
+}
+.virtualInner h2 {
+    padding: 20px 13px;
+}
+.virtualInner h4 {
+    font-size: 19px;
+    line-height: 24px;
+}
+.virtualArea.virtualAreaVice button {
+    top: 32%;
+    left: 38%;
+}
+.virtualArea.virtualAreaVice button.polinaPlayLeft {
+    top: 32%;
+    left: 38%;
+}
+span.enrl_para {
+    font-size: 14px;
+}
+a.donwloadMainPDF {
+    padding: 20px 26px 40px;
+}
+}
